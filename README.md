@@ -9,5 +9,8 @@ What’s more, for those learning Python web development, Flask provides a perfe
 To-do
 -----
 
-- Better organize code
-- Add new tutorials
+1.first and foremost install pip
+
+$ sudo apt-get install pip
+
+
