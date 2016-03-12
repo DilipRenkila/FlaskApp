@@ -9,7 +9,7 @@ What’s more, for those learning Python web development, Flask provides a perfe
 To-do
 -----
 
-1.first and foremost install pip
+1. First install pip and then run routes.py script.
 
 $ sudo apt-get install pip
 
