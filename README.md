@@ -21,7 +21,7 @@ $ pip install flask
 
 ## Usage
 
-The sqlite database must also be created before the application can run, and the `db_create.py` script takes care of that.
+The sqlite database must also be created before the application can run, and the `database.py` script takes care of that.
 
 To run the application in the development web server just execute `routes.py` with the Python interpreter.
 ```sh
