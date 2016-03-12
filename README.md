@@ -39,5 +39,5 @@ follow these steps:
 1. Fork this repository
 2. Make your changes
 3. Install the requirements in `dev-requirements.txt`
-4. Submit a pull request after running `make check` (ensure it does not error!).
+4. Submit a pull request after running `make check` (ensure it does not error!)
 
