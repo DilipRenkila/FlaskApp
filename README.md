@@ -33,7 +33,7 @@ Complete documentation for Flask is availble on [ReadTheDocs](http://flask.readt
 
 ## Contributing
 
-We welcome contributions! If you would like to hack on Flask-Login, please
+We welcome contributions! If you would like to hack on Flask, please
 follow these steps:
 
 1. Fork this repository
